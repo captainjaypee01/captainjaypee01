@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I’m John Paul Dala — Full-Stack Software Engineer
 
-<!--
-**captainjaypee01/captainjaypee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build scalable, test-driven software with a focus on clean architecture, modern APIs, and seamless user experience.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Backend:** Laravel (PHP), SOLID Principles, REST APIs, TDD with Pest PHP
+- **Frontend:** React.js, Vite, Tailwind CSS, Redux
+- **Other:** Python, Node.js, CI/CD, Azure DevOps, ClerkAuth, Cloudinary
+- **Practices:** SOLID Design, Dependency Injection, Test-Driven Development, Clean Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Open to:
+- SaaS | FinTech | TravelTech | E-Commerce | Enterprise Software | Emerging Tech
+- Remote roles or global relocation
+
+### 💻 Recent Projects
+**Cloud-Based Resort & Hotel Booking System**  
+Laravel API + React frontend | SOLID | TDD | CI/CD  
+- Scalable API with secure booking flows  
+- Room/date locking and cart functionality  
+- CI/CD pipelines and automated test coverage  
+
+**IoT Monitoring Dashboard**  
+React.js + Laravel + Python + Azure  
+- Modular React UI for real-time IoT monitoring  
+- Hybrid cloud + on-premise architecture  
+
+**On-Premise Monitoring System**  
+React.js + Python  
+- Lightweight React UI for edge devices  
+- Optimized for offline and low-resource environments  
+
+### 📄 Resume
+[📥 View & Download my Resume (PDF)](https://your-resume-link.com)  
+_(replace with actual link — can be Google Drive share, portfolio site link, or GitHub-hosted)_  
+
+### 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- [Portfolio](https://yourportfolio.com)  
+- Email: your.email@example.com  
+
+---
+
+*"I build software that scales — clean, tested, and designed to make an impact."*
