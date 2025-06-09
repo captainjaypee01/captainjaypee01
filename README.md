@@ -30,12 +30,12 @@ React.js + Python
 - Optimized for offline and low-resource environments  
 
 ### 📄 Resume
-[📥 View & Download my Resume (PDF)](https://your-resume-link.com)  
+[📥 View & Download my Resume (PDF)]([https://johnpauldala-resume.com](https://drive.google.com/file/d/1LSdYTdM6Sa1hRnjoKlp8mPgEghAj8Yg2/view?usp=drive_link))  
 _(replace with actual link — can be Google Drive share, portfolio site link, or GitHub-hosted)_  
 
 ### 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- [Portfolio](https://yourportfolio.com)  
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/jbdala/))  
+- [Portfolio]([https://yourportfolio.com](https://www.linkedin.com/in/jbdala/))  
 - Email: your.email@example.com  
 
 ---
