@@ -35,7 +35,7 @@ _(replace with actual link — can be Google Drive share, portfolio site link, o
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/jbdala/)  
-- [Portfolio](https://www.linkedin.com/in/jbdala/)
+- [Portfolio](https://www.jpbdala.com/)
 - Email: jbdala.0131@gmail.com  
 
 ---
