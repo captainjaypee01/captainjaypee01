@@ -3,9 +3,9 @@
 🚀 I build scalable, test-driven software with a focus on clean architecture, modern APIs, and seamless user experience.
 
 ### 🛠️ Tech Stack
-- **Backend:** Laravel (PHP), SOLID Principles, REST APIs, TDD with Pest PHP
+- **Backend:** Laravel (PHP), Python, SOLID Principles, REST APIs, TDD with Pest PHP
 - **Frontend:** React.js, Vite, Tailwind CSS, Redux
-- **Other:** Python, Node.js, CI/CD, Azure DevOps, ClerkAuth, Cloudinary
+- **Other:** Pandas, Node.js, CI/CD, Azure DevOps, ClerkAuth, Cloudinary
 - **Practices:** SOLID Design, Dependency Injection, Test-Driven Development, Clean Code
 
 ### 🌍 Open to:
